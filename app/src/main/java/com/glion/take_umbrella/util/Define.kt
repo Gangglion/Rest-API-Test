@@ -1,4 +1,4 @@
-package com.glion.restful_test.util
+package com.glion.take_umbrella.util
 
 import android.Manifest
 

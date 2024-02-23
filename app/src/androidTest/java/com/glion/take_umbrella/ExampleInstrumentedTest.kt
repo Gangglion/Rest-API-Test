@@ -1,4 +1,4 @@
-package com.glion.restful_test
+package com.glion.take_umbrella
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

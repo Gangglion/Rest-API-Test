@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.glion.restful_test"
+    namespace = "com.glion.take_umbrella"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.glion.restful_test"
+        applicationId = "com.glion.take_umbrella"
         minSdk = 29
         targetSdk = 34
         versionCode = 1

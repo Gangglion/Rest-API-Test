@@ -1,21 +1,18 @@
-package com.glion.restful_test
+package com.glion.take_umbrella
 
 import android.annotation.SuppressLint
 import android.content.Context
 import android.location.Location
 import android.location.LocationManager
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import androidx.databinding.DataBindingUtil
-import com.glion.restful_test.base.BaseActivity
-import com.glion.restful_test.databinding.ActivityMainBinding
-import com.glion.restful_test.extention.hasPermission
-import com.glion.restful_test.extention.requestPermission
-import com.glion.restful_test.extention.showToast
-import com.glion.restful_test.util.TAG
-import com.glion.restful_test.util.permissions
-import com.glion.restful_test.util.requestCode
+import com.glion.take_umbrella.base.BaseActivity
+import com.glion.take_umbrella.databinding.ActivityMainBinding
+import com.glion.take_umbrella.extention.hasPermission
+import com.glion.take_umbrella.extention.requestPermission
+import com.glion.take_umbrella.util.TAG
+import com.glion.take_umbrella.util.permissions
+import com.glion.take_umbrella.util.requestCode
 
 class MainActivity : BaseActivity<ActivityMainBinding>(R.layout.activity_main) {
     @SuppressLint("MissingPermission")

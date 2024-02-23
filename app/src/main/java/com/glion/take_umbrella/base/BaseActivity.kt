@@ -1,4 +1,4 @@
-package com.glion.restful_test.base
+package com.glion.take_umbrella.base
 
 import android.os.Bundle
 import androidx.annotation.LayoutRes

@@ -1,4 +1,4 @@
-package com.glion.restful_test.extention
+package com.glion.take_umbrella.extention
 
 import android.app.Activity
 import android.content.pm.PackageManager

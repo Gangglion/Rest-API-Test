@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Restful_test"
+rootProject.name = "TakeUmbrella"
 include(":app")
  
